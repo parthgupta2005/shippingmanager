@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 21 15:48:18 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-fc4d-c33c-00000ed06fb0 
+on database directory /Users/parthgupta/ComputerScienceIACOPY/Forms/Product/shippingDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+Loaded from file:/Users/parthgupta/ComputerScienceIACOPY/Forms/Product/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.12+8-LTS-237
+user.dir=/Users/parthgupta/ComputerScienceIACOPY/Forms/Product
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,2 @@
+Main-Class: Welcome
+Class-Path: derby.jar poi-3.2-FINAL.jar poi-3.7.jar dom4j-1.6.1.jar xmlbeans-2.3.0.jar poi-scratchpad-3.7.jar poi-scratchpad-3.7-sources.jar poi-ooxml-schemas-3.7.jar poi-ooxml-3.7.jar poi-examples-3.7.jar
