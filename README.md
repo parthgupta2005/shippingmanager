@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The **Shipping Management System** is a Java-based application designed to optimize the packing and management of shipping containers. It was developed to solve the operational inefficiencies of a shipping company in Galveston, Texas, by automating the process of organizing and managing shipments. The system helps the company reduce costs by maximizing packing efficiency and reducing shipment frequency. The project uses Java for the core logic and user interface, MySQL for database management, and various Java libraries to streamline the packing process.
+The **Shipping Management System** is a Java-based application designed to optimize the packing and management of shipping containers. It was developed to solve the operational inefficiencies of a shipping company client, by automating the process of organizing and managing shipments. The system helps the company reduce costs by maximizing packing efficiency and reducing shipment frequency. The project uses Java for the core logic and user interface, MySQL for database management, and various Java libraries to streamline the packing process.
 
 ## Table of Contents
 - [Features](#features)
